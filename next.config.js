@@ -12,7 +12,7 @@ const nextConfig = {
     serverActions: true,
   },
   trailingSlash: true,
-  output: "export",
+  output: "export"
 };
 
 module.exports = nextConfig;
